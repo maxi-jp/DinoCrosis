@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 5f5a7738f943a0841ae216a308f2aa66
+timeCreated: 1522168913
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: T-Rex_1Bone001
+    100002: T-Rex_1Bone001 1
+    100004: T-Rex_8Bone001
+    100006: T-Rex_Chest
+    100008: T-Rex_Head
+    100010: T-Rex_Jew
+    100012: T-Rex_LArm1
+    100014: T-Rex_LArm2
+    100016: T-Rex_LArmCollarbone
+    100018: T-Rex_LArmDigit11
+    100020: T-Rex_LArmDigit12
+    100022: T-Rex_LArmPalm
+    100024: T-Rex_LLeg1
+    100026: T-Rex_LLeg2
+    100028: T-Rex_LLegAnkle
+    100030: T-Rex_LLegCollarbone
+    100032: T-Rex_LLegDigit11
+    100034: T-Rex_Pelvis
+    100036: T-Rex_RArm1
+    100038: T-Rex_RArm2
+    100040: T-Rex_RArmCollarbone
+    100042: T-Rex_RArmDigit11
+    100044: T-Rex_RArmDigit12
+    100046: T-Rex_RArmPalm
+    100048: T-Rex_RLeg1
+    100050: T-Rex_RLeg2
+    100052: T-Rex_RLegAnkle
+    100054: T-Rex_RLegCollarbone
+    100056: T-Rex_RLegDigit11
+    100058: T-Rex_Spine
+    100060: T-Rex_Spine1
+    100062: T-Rex_Spine2
+    100064: T-Rex_Tail1
+    100066: T-Rex_Tail2
+    100068: T-Rex_Tail3
+    100070: T-Rex_Tail4
+    100072: T-Rex_Tail5
+    100074: T-Rex_Tail6
+    100076: T-Rex_Tail7
+    100078: T-Rex_Tail8
+    100080: //RootNode
+    100082: Trex_Mesh
+    400000: T-Rex_1Bone001
+    400002: T-Rex_1Bone001 1
+    400004: T-Rex_8Bone001
+    400006: T-Rex_Chest
+    400008: T-Rex_Head
+    400010: T-Rex_Jew
+    400012: T-Rex_LArm1
+    400014: T-Rex_LArm2
+    400016: T-Rex_LArmCollarbone
+    400018: T-Rex_LArmDigit11
+    400020: T-Rex_LArmDigit12
+    400022: T-Rex_LArmPalm
+    400024: T-Rex_LLeg1
+    400026: T-Rex_LLeg2
+    400028: T-Rex_LLegAnkle
+    400030: T-Rex_LLegCollarbone
+    400032: T-Rex_LLegDigit11
+    400034: T-Rex_Pelvis
+    400036: T-Rex_RArm1
+    400038: T-Rex_RArm2
+    400040: T-Rex_RArmCollarbone
+    400042: T-Rex_RArmDigit11
+    400044: T-Rex_RArmDigit12
+    400046: T-Rex_RArmPalm
+    400048: T-Rex_RLeg1
+    400050: T-Rex_RLeg2
+    400052: T-Rex_RLegAnkle
+    400054: T-Rex_RLegCollarbone
+    400056: T-Rex_RLegDigit11
+    400058: T-Rex_Spine
+    400060: T-Rex_Spine1
+    400062: T-Rex_Spine2
+    400064: T-Rex_Tail1
+    400066: T-Rex_Tail2
+    400068: T-Rex_Tail3
+    400070: T-Rex_Tail4
+    400072: T-Rex_Tail5
+    400074: T-Rex_Tail6
+    400076: T-Rex_Tail7
+    400078: T-Rex_Tail8
+    400080: //RootNode
+    400082: Trex_Mesh
+    2100000: 'Material #3'
+    2100002: 01 - Default
+    2100004: 'Material #4'
+    4300000: Trex_Mesh
+    7400000: Walking
+    7400002: Death1
+    7400004: Scream
+    7400006: Death2
+    7400008: Iddle
+    9500000: //RootNode
+    13700000: Trex_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walking
+      takeName: Dino-Trex-Rigging-03
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death1
+      takeName: Dino-Trex-Rigging-03
+      firstFrame: 71
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Scream
+      takeName: Dino-Trex-Rigging-03
+      firstFrame: 172
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death2
+      takeName: Dino-Trex-Rigging-03
+      firstFrame: 172
+      lastFrame: 265
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Iddle
+      takeName: Dino-Trex-Rigging-03
+      firstFrame: 172
+      lastFrame: 233
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
